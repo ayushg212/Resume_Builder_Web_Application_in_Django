@@ -5,3 +5,4 @@ Created a django application where user can fill their resume details and downlo
 ![image](https://github.com/ayushg212/Resume_Builder_Web_Application_in_Django/assets/57093373/5b63fdd8-4ec0-446e-8d6c-b09c4741d9cb)
 ![image](https://github.com/ayushg212/Resume_Builder_Web_Application_in_Django/assets/57093373/18aca9d7-19ec-4141-813f-76c95c09bc07)
 ![image](https://github.com/ayushg212/Resume_Builder_Web_Application_in_Django/assets/57093373/20786b6f-77cd-403e-967e-25351aef2bff)
+
